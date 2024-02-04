@@ -1,1 +1,1 @@
-Projeto em React baseado na rede social "Instagram", onde o usuário pode cadastrar uma conta, assim como postar e curtir fotos. Disponível no curso de React da Udemy(https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/).
+Projeto em React baseado na rede social "Instagram", onde o usuário pode cadastrar uma conta, assim como postar e curtir fotos. Disponível no curso de React da [Udemy](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/).
